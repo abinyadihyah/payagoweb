@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 542" style="enable-background:new 0 0 1366 542;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#011B32;}
+	.st1{opacity:5.000000e-02;fill:url(#SVGID_1_);enable-background:new    ;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#00AAAA;}
+</style>
+<title>payagobg</title>
+<g id="Layer_2">
+	<g id="Layer_1-2">
+		<path class="st0" d="M0,0v413l201.8,109.6c18.4,10,39.3,14.3,60.2,12.5l1104-95.4V0H0z"/>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="879.4037" y1="-33.6966" x2="915.9145" y2="488.4317">
+			<stop  offset="0.2147" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon class="st1" points="397.5,0 715.7,502.4 1366,439.8 1366,0 		"/>
+		<path class="st2" d="M0,420.3V542h252.7c-18.9,0-37.4-4.7-54-13.7L0,420.3z"/>
+		<path class="st3" d="M1366,446.3v-13L261.5,528.7c-19.6,1.7-39.2-2.4-56.5-11.8L0,405.6v14.7l198.7,107.9
+			c16.6,9,35.1,13.7,54,13.7c3.3,0,6.6-0.1,9.8-0.4L1366,446.3z"/>
+	</g>
+</g>
+</svg>
